@@ -92,11 +92,19 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
+<<<<<<< HEAD
       <File Path="$PSRCDIR/sources_1/imports/new/or_gate.vhd">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../DIG/Lab 1/Lab 1.srcs/sources_1/new/or_gate.vhd"/>
           <Attr Name="ImportTime" Val="1675258570"/>
+=======
+      <File Path="$PSRCDIR/sources_1/imports/new/xor_gate.vhd">
+        <FileInfo>
+          <Attr Name="AutoDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="G:/My Drive/Uni/4. Semester/DIG/Lektion5/Lab_5/Lab_5.srcs/sources_1/new/xor_gate.vhd"/>
+          <Attr Name="ImportTime" Val="1677680209"/>
+>>>>>>> d1007955166ffc1758fd599f5e941046a34d10f7
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
