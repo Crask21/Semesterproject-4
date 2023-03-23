@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Mar 15 14:04:37 2023
+# Process ID: 19752
+# Current directory: C:/Users/krist/Documents/UNI/4. sem/Semester projekt/Github/Semesterprojekt-4/FPGA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23256 C:\Users\krist\Documents\UNI\4. sem\Semester projekt\Github\Semesterprojekt-4\FPGA\FPGA.xpr
+# Log file: C:/Users/krist/Documents/UNI/4. sem/Semester projekt/Github/Semesterprojekt-4/FPGA/vivado.log
+# Journal file: C:/Users/krist/Documents/UNI/4. sem/Semester projekt/Github/Semesterprojekt-4/FPGA\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Mar 15 14:05:15 2023...
